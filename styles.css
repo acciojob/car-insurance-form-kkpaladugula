@@ -1,2 +1,15 @@
+body{
+   
+    margin-top: 0px;
+    padding: 20px;
+    border: 1px solid red;
+    width: 300px;
+}
+form{
+    background-color: gray;
+}
+.Submit{
 
-/* Your CSS Code here. */
+   text-align:center;
+    
+}
